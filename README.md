@@ -37,7 +37,11 @@
      pip install -r requirements.txt
    -Setalah itu bot bisa dijalankan dengan command
      python main.py --logic Random --email=your_email@example.com --name=your_name --password=your_password --team etimo
-  
+
+#Author
+  -Muhammad Arkan Saktiawan (123140166)
+  -Dhian Adi Nugroho (121140055)
+  -Ryanda Aditya Irawan (123140144)
 
 
   
